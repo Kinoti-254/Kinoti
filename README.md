@@ -31,7 +31,7 @@ Always leveling up in coding, math, and practical life skills.
 
 ## 🔗 Connect with Me  
 
-<p align="center">
+<p align="right">
   <a href="https://www.instagram.com/_.k.i.n.o.t.i._">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" style="margin: 10px;" />
   </a>
