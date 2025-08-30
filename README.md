@@ -1,20 +1,5 @@
 # ✨ Hi, I'm  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=00F5D4&center=false&vCenter=true&width=500&lines=Kinoti)](https://git.io/typing-svg)
-
-<svg viewBox="0 0 960 300">
-  <defs>
-    <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="0">
-      <stop stop-color="#00f5d4" offset="0%" />
-      <stop stop-color="#0affff" offset="50%" />
-      <stop stop-color="#ff00ff" offset="100%" />
-      <animateTransform attributeName="gradientTransform" type="translate" from="0,0" to="1,0" dur="4s" repeatCount="indefinite" />
-    </linearGradient>
-  </defs>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
-        style="fill:url(#gradient); font-size: 60px; font-family: Fira Code; font-weight: bold;">
-    Kinoti
-  </text>
-</svg>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=00F5D4&center=false&vCenter=true&width=500&lines=Kinoti+👋)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&width=500&lines=Math+%26+Computer+Science+Student;Aspiring+Developer+%7C+Problem+Solver;Turning+Ideas+into+Code;Consistency+%3E+Motivation;Debugging...+Winning!)](https://git.io/typing-svg)
 
