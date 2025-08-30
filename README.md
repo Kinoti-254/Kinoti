@@ -12,21 +12,22 @@ Always leveling up in coding, math, and practical life skills.
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kinoti-254&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Kinoti-254&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinoti-254&theme=tokyonight" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinoti-254&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinoti-254&layout=compact&theme=tokyonight&langs_count=8" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinoti-254&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
     </td>
     <td width="50%">
-      <img src="https://github-contributor-stats.vercel.app/api?username=Kinoti-254&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=Kinoti-254&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🔗 Connect with Me  
