@@ -9,7 +9,8 @@ Always leveling up in coding, math, and practical life skills.
 
 ## 🛠 Tech Stack & Roadmap
 
-### 📚 Current Tools ![Learning](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=false&vCenter=true&width=500&lines=⚡+Python;☕+Java;🌐+JavaScript;🎨+HTML+%2F+CSS;🔧+Git+%7C+VS+Code)
+### 📚 Current Tools
+![Learning](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=false&vCenter=true&width=500&lines=⚡+Python;☕+Java;🌐+JavaScript;🎨+HTML+%2F+CSS;🔧+Git+%7C+VS+Code)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="50"/>
   <img src="https://skillicons.dev/icons?i=java" width="50"/>
@@ -22,7 +23,8 @@ Always leveling up in coding, math, and practical life skills.
 
 ---
 
-### 🚀 Exploring Next ![Radar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=false&vCenter=true&width=500&lines=⚛️+React;💨+TailwindCSS;🟢+Node.js;🚀+Express.js;🐍+Django;🤖+AI+%2F+ML)
+### 🚀 Exploring Next 
+![Radar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=false&vCenter=true&width=500&lines=⚛️+React;💨+TailwindCSS;🟢+Node.js;🚀+Express.js;🐍+Django;🤖+AI+%2F+ML)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" width="50"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
