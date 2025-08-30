@@ -32,17 +32,17 @@ Always leveling up in coding, math, and practical life skills.
 ## 🔗 Connect with Me  
 
 <p align="center">
-  <a href="https://www.instagram.com/_.k.i.n.o.t.i._?igsh=dXNhd3lqc3RvNTNw">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40px" style="filter: drop-shadow(0 0 5px #E4405F); transition: 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 15px #E4405F)';" onmouseout="this.style.filter='drop-shadow(0 0 5px #E4405F)';"/>
+  <a href="https://www.instagram.com/_.k.i.n.o.t.i._?igsh=dXNhd3lqc3RvNTNw" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.linkedin.com/in/mark-kinoti-5aa3b72a7">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" style="filter: drop-shadow(0 0 5px #0077B5); transition: 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 15px #0077B5)';" onmouseout="this.style.filter='drop-shadow(0 0 5px #0077B5)';"/>
+  <a href="https://www.linkedin.com/in/mark-kinoti-5aa3b72a7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://twitter.com/kinoti_mark">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40px" style="filter: drop-shadow(0 0 5px #1DA1F2); transition: 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 15px #1DA1F2)';" onmouseout="this.style.filter='drop-shadow(0 0 5px #1DA1F2)';"/>
+  <a href="https://twitter.com/kinoti_mark" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://github.com/Kinoti-254">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" style="filter: drop-shadow(0 0 5px #fff); transition: 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 15px #fff)';" onmouseout="this.style.filter='drop-shadow(0 0 5px #fff)';"/>
+  <a href="https://github.com/Kinoti-254" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
 
