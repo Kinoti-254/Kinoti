@@ -33,16 +33,16 @@ Always leveling up in coding, math, and practical life skills.
 
 <p align="left">
   <a href="https://www.instagram.com/_.k.i.n.o.t.i._">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" style="margin: 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/mark-kinoti-5aa3b72a7">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="margin: 10px;" />
   </a>
   <a href="https://twitter.com/kinoti_mark">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="50" style="margin: 10px;" />
   </a>
   <a href="https://github.com/Kinoti-254">
-    <img src="https://skillicons.dev/icons?i=github" width="40" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" style="margin: 10px;" />
   </a>
 </p>
 
