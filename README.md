@@ -9,14 +9,27 @@ Always leveling up in coding, math, and practical life skills.
 
 ## 🛠 Tech Stack & Roadmap
 
-### Current Tools
+### 📚 Current Tools ![Learning](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=false&vCenter=true&width=500&lines=⚡+Python;☕+Java;🌐+JavaScript;🎨+HTML+%2F+CSS;🔧+Git+%7C+VS+Code)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,vscode" width="50" style="margin:5px;"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
 </p>
 
-### Exploring Next
+---
+
+### 🚀 Exploring Next ![Radar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=false&vCenter=true&width=500&lines=⚛️+React;💨+TailwindCSS;🟢+Node.js;🚀+Express.js;🐍+Django;🤖+AI+%2F+ML)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,django,ai" width="50" style="margin:5px;"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=express" width="50"/>
+  <img src="https://skillicons.dev/icons?i=django" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ai" width="50"/>
 </p>
 
 ---
