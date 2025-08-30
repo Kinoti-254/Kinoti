@@ -1,9 +1,40 @@
 # ✨ Hi, I'm <span style="color:#00f5d4; text-shadow: 0 0 10px #00f5d4, 0 0 20px #00f5d4;">Kinoti</span> 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&width=435&lines=Student+%7C+Aspiring+Developer;Problem+Solver+%7C+Always+Learning;Turning+ideas+into+code;Consistency+beats+motivation;Debugging...+Winning!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&width=500&lines=Math+%26+Computer+Science+Student;Aspiring+Developer+%7C+Problem+Solver;Turning+Ideas+into+Code;Consistency+%3E+Motivation;Debugging...+Winning!)](https://git.io/typing-svg)
 
-💻 **Student | Aspiring Developer | Problem Solver**  
+💻 **Math & Computer Science Student | Aspiring Developer | Problem Solver**  
 Always leveling up in coding, math, and practical life skills.  
+
+---
+
+## 📚 Currently Learning  
+
+![Learning](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=false&vCenter=true&width=500&lines=⚡+Python;☕+Java;🌐+JavaScript;🎨+HTML+%2F+CSS;🔧+Git+%7C+VS+Code)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+</p>
+
+---
+
+## 🚀 Next on My Radar  
+
+![Radar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=false&vCenter=true&width=500&lines=⚛️+React;💨+TailwindCSS;🟢+Node.js;🚀+Express.js;🐍+Django;🤖+AI+%2F+ML)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=express" width="50"/>
+  <img src="https://skillicons.dev/icons?i=django" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ai" width="50"/>
+</p>
 
 ---
 
