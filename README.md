@@ -1,39 +1,22 @@
 # ✨ Hi, I'm Kinoti 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&width=500&lines=Math+%26+Computer+Science+Student;Aspiring+Developer+%7C+Problem+Solver;Turning+Ideas+into+Code;Consistency+%3E+Motivation;Debugging...+Winning!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F5D4&width=500&lines=Math+%26+Computer+Science+Student;Aspiring+Developer+%7C+Problem+Solver;Turning+Ideas+into+Code;Consistency+%3E+Motivation;Debugging...+Winning!)](https://git.io/typing-svg)
 
 💻 **Math & Computer Science Student | Aspiring Developer | Problem Solver**  
 Always leveling up in coding, math, and practical life skills.  
 
 ---
 
-## 📚 Currently Learning  
+## 🛠 Tech Stack & Roadmap
 
-![Learning](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=false&vCenter=true&width=500&lines=⚡+Python;☕+Java;🌐+JavaScript;🎨+HTML+%2F+CSS;🔧+Git+%7C+VS+Code)
-
+### Current Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/>
-  <img src="https://skillicons.dev/icons?i=java" width="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,vscode" width="50" style="margin:5px;"/>
 </p>
 
----
-
-## 🚀 Next on My Radar  
-
-![Radar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=false&vCenter=true&width=500&lines=⚛️+React;💨+TailwindCSS;🟢+Node.js;🚀+Express.js;🐍+Django;🤖+AI+%2F+ML)
-
+### Exploring Next
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" width="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-  <img src="https://skillicons.dev/icons?i=express" width="50"/>
-  <img src="https://skillicons.dev/icons?i=django" width="50"/>
-  <img src="https://skillicons.dev/icons?i=ai" width="50"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,django,ai" width="50" style="margin:5px;"/>
 </p>
 
 ---
@@ -79,11 +62,6 @@ Always leveling up in coding, math, and practical life skills.
 </p>
 
 ---
-
-### 🛠 Tech Stack  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,vscode" />
-</p>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
