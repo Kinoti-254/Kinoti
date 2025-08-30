@@ -1,5 +1,4 @@
-# ✨ Hi, I'm  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=00F5D4&center=false&vCenter=true&width=500&lines=Kinoti+👋)](https://git.io/typing-svg)
+# ✨ Hi, I'm Kinoti 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&width=500&lines=Math+%26+Computer+Science+Student;Aspiring+Developer+%7C+Problem+Solver;Turning+Ideas+into+Code;Consistency+%3E+Motivation;Debugging...+Winning!)](https://git.io/typing-svg)
 
