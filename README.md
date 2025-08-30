@@ -48,4 +48,11 @@ Always leveling up in coding, math, and practical life skills.
 
 ---
 
+### 🛠 Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,vscode" />
+</p>
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 ✨ *"Stay consistent, even 1% progress a day compounds."*
