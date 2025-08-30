@@ -1,4 +1,5 @@
-# Kinoti
+![Banner](https://github.com/Kinoti-254/Kinoti-254/blob/main/banner.gif)
+
 # 👋 Hi, I'm Kinoti  
 
 💻 **Student | Aspiring Developer | Problem Solver**  
@@ -8,7 +9,7 @@ Always leveling up in coding, math, and practical life skills.
 
 ## 🌟 About Me
 - 🔭 Currently learning: Python, Git/GitHub, and practical coding projects  
-- 🌱 Goal: Build a habit of consistent coding (and avoid scrolling too much 😅)  
+- 🌱 Goal: Build a habit of consistent coding and continuous learning  
 - 🎯 Interests: Software dev, open-source, and creating fun + useful projects  
 
 ---
@@ -18,9 +19,6 @@ Always leveling up in coding, math, and practical life skills.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-kinoti-5aa3b72a7)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kinoti_mark)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Kinoti-254)
-
-##  Connect with Me
-
 
 ---
 
@@ -33,6 +31,8 @@ Always leveling up in coding, math, and practical life skills.
 
 ## 📈 GitHub Stats
 ![Kinoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kinoti-254&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinoti-254&layout=compact&theme=tokyonight)
 
 ---
 
